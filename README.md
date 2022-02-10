@@ -8,7 +8,7 @@
 
 - 💬 I'm learning **JavaScript, HTML, CSS, NODE**
 
-- 📫 How to reach me **ajfa2004@gmail.com**
+- 📫 How to reach me **YOU DONT**
 
 - ⚡ Fun fact **Oneye 😜**
 
