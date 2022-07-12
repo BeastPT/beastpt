@@ -6,7 +6,7 @@
 
 - ▶️ I do some streams on [twitch.tv/beastpt](www.twitch.tv/beastpt)
 
-- 💬 I'm learning **JavaScript, HTML, CSS, NODE**
+- 💬 I'm learning **Lua, JavaScript, HTML, CSS, NODE**
 
 - 📫 How to reach me **YOU DONT**
 
