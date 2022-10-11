@@ -2,15 +2,15 @@
 <h3 align="center">A Web Developer student focused to be someone!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastpt" alt="beastpt" /> </p>
 
-- 🔭 I’m currently studying at School!
+- 🔭 I’m currently studying at [Madeira University](www.uma.pt) Computer Science and Engineering!
 
 - ▶️ I do some streams on [twitch.tv/beastpt](www.twitch.tv/beastpt)
 
 - 💬 I'm learning **Lua, JavaScript, HTML, CSS, NODE**
 
-- 📫 How to reach me **YOU DONT**
+- 📫 How to reach me **contact@afonsoabreu.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **"YUPI DI HUE"**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="20" height="20"/>
