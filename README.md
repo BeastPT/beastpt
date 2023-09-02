@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Afonso Abreu aka BeastPT</h1>
-<h3 align="center">A Web Developer student focused to be someone!</h3>
+<h3 align="center">I'm someone and nobody!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastpt" alt="beastpt" /> </p>
 
 - 🔭 I’m currently studying at [Madeira University](www.uma.pt) Computer Science and Engineering!
