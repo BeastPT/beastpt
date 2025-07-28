@@ -6,11 +6,9 @@
 
 - ▶️ I do some streams on [twitch.tv/beastpt](www.twitch.tv/beastpt)
 
-- 💬 I'm learning **Lua, JavaScript, HTML, CSS, NODE**
+- 💬 I'm learning **EVERYTHING**
 
 - 📫 How to reach me **contact@afonsoabreu.com**
-
-- ⚡ Fun fact **"YUPI DI HUE"**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="20" height="20"/>
