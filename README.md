@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Afonso Abreu aka BeastPT</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Afonso Abreu aka beastpt</h1>
 <h3 align="center">I'm someone and nobody!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastpt" alt="beastpt" /> </p>
 
