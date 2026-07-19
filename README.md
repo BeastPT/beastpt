@@ -2,7 +2,7 @@
 <h3 align="center">I'm someone and nobody!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastpt" alt="beastpt" /> </p>
 
-- 🔭 I’m currently studying at [Madeira University](www.uma.pt) Computer Science and Engineering!
+- 🔭 BSc in Computer Science and Engineering at [Madeira University](www.uma.pt)!
 
 - ▶️ I do some streams on [twitch.tv/beastpt](www.twitch.tv/beastpt)
 
@@ -19,7 +19,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=beastpt&show_icons=true" alt="beastpt"/> 
 </p>
 
 <p align="center">
