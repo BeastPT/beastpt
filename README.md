@@ -22,8 +22,7 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/V1_Beast_PT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="beastpt" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/afonso-abreu-1902071b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beastpt" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/afonsobabreu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beastpt" height="20" width="20" /></a>
 <a href="https://www.twitch.tv/beastpt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="beastpt" height="20" width="20" /></a>
 <a href="https://instagram.com/afonsobabreu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beastpt" height="20" width="20" /></a>
 </p>
